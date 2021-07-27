@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [nodejs-sentiment-reader](https://github.com/ashwinsingh2007/nodejs-sentiment-reader)
 
-- 🌱 I’m currently learning **Rust**
+- 🌱 I’m currently learning **Ethereum blockchain platform**
 
 - 🤝 I’m looking for help with [covidshell](https://github.com/ashwinsingh2007/covidshell)
 
