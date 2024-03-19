@@ -1,15 +1,15 @@
 <h1 align="center">Hi 👋, I'm Ashwani</h1>
 <h3 align="center">Full Stack | Open-Source Enthusiast | Blogger | Ninja</h3>
 
-- 🔭 I’m currently working on [nodejs-sentiment-reader](https://github.com/ashwinsingh2007/nodejs-sentiment-reader)
+- 🔭 I’m currently working on [social-networking-app](https://cosmosone.app)
 
-- 🌱 I’m currently learning **Ethereum blockchain platform**
+- 🌱 I’m currently learning **Generative AI**
 
-- 🤝 I’m looking for help with [covidshell](https://github.com/ashwinsingh2007/covidshell)
+- 🤝 I’m looking for help with [universal-profanity-checker](https://www.npmjs.com/package/universal-profanity-checker)
 
-- 👨‍💻 All of my projects are available at [ashwani-kumar.com](ashwani-kumar.com)
+- 👨‍💻 All of my projects are available at [ashwani-kumar.com](https://codewithashwani.netlify.app)
 
-- 💬 Ask me about **NodeJS / Vue / Docker / React / Scraping**
+- 💬 Ask me about **NodeJS / Vue / Docker / React / Scraping / React Native / Generative AI**
 
 - 📫 How to reach me **legend.ashwini07@gmail.com**
 
