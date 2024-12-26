@@ -8,7 +8,7 @@
 
 - 💡 I’m exploring cutting-edge AI technologies like **Generative AI** and **NLP** for building smarter, scalable solutions.
 
-- 👨‍💻 My portfolio and projects are available at [ashwani-kumar.com](https://codewithashwani.netlify.app).
+- 👨‍💻 My portfolio and projects are available at [ashwani-kumar.com](https://code.netlify.app).
 
 - 💬 Ask me about **Node.js / React / Docker / AI / SaaS Development / Frontend Optimization / Real-Time Apps**.
 
