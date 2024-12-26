@@ -12,7 +12,6 @@
 
 - 💬 Ask me about **Node.js / React / Docker / AI / SaaS Development / Frontend Optimization / Real-Time Apps**.
 
-- 📫 You can reach me at **legend.ashwini07@gmail.com** or connect via [LinkedIn](https://linkedin.com/in/ashwani-kumar-97465186).
 
 ---
 
