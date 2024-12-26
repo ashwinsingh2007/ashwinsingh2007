@@ -16,10 +16,6 @@
 ---
 
 <h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/ashwani-kumar-97465186" target="blank"><img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg" alt="LinkedIn Profile" height="30" width="40" /></a>
-<a href="https://substack.com/@ideaoutloud" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/Substack_logo.svg/120px-Substack_logo.svg.png" alt="IdeaOutLoud Substack" height="30" width="40" /></a>
-</p>
 
 ---
 
