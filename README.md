@@ -4,6 +4,7 @@
 </picture>
 
 <p align="center">
+  <a href="https://www.ashwani-kumar.com/"><img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white"/></a>
   <a href="https://www.linkedin.com/in/ashwani-kumar-97465186/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
   <a href="mailto:kmr.ashwin2019@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
   <a href="https://medium.com/@ashwinsingh632"><img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white"/></a>
@@ -19,6 +20,7 @@ const ashwani = {
     role: "Senior Product Engineer @ Radius Agent",
     location: "Bangalore, India",
     experience: "8+ years",
+    portfolio: "https://www.ashwani-kumar.com",
 
     currentFocus: "Building AI-powered products that scale",
 
@@ -103,42 +105,60 @@ const ashwani = {
 <table>
 <tr>
 <td width="50%">
-<h3 align="center">Scrapebit</h3>
+<h3 align="center"><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Robot.png" width="20"/> MEL AI</h3>
 <p align="center">
-  <a href="https://github.com/ashwinsingh2007" target="_blank">
-    <img src="https://img.shields.io/badge/AI--Powered_Web_Data_SDK-6366f1?style=for-the-badge"/>
-  </a>
+  <img src="https://img.shields.io/badge/Contract_Intelligence-a855f7?style=for-the-badge&logo=openai&logoColor=white"/>
 </p>
-<p align="center">Modular SDK for programmatic web scraping with proxy handling, queue-based execution, and anti-bot capabilities</p>
+<p align="center">NLP-based contract analysis system - <b>150% DAU increase</b>, <b>40% faster reviews</b></p>
+<p align="center">
+<img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white"/>
+<img src="https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white"/>
+<img src="https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white"/>
+</p>
 </td>
 <td width="50%">
-<h3 align="center">Sanchay</h3>
+<h3 align="center"><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Graduation%20Cap.png" width="20"/> Airtribe.live</h3>
 <p align="center">
-  <a href="https://github.com/ashwinsingh2007" target="_blank">
-    <img src="https://img.shields.io/badge/AI_Finance_Co--Pilot-22d3ee?style=for-the-badge"/>
+  <a href="https://airtribe.live" target="_blank">
+    <img src="https://img.shields.io/badge/Cohort_Learning_Platform-10b981?style=for-the-badge&logo=vercel&logoColor=white"/>
   </a>
 </p>
-<p align="center">Open-source AI assistant that analyzes financial data and generates spending insights using NLP</p>
+<p align="center">Full-stack MVP for cohort-based learning - <b>1K+ visitors</b> in month 1</p>
+<p align="center">
+<img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black"/>
+<img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white"/>
+<img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white"/>
+</p>
 </td>
 </tr>
 <tr>
 <td width="50%">
-<h3 align="center">MEL AI</h3>
+<h3 align="center"><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Spider%20Web.png" width="20"/> Scrapebit</h3>
 <p align="center">
-  <a href="#">
-    <img src="https://img.shields.io/badge/Contract_Intelligence-a855f7?style=for-the-badge"/>
+  <a href="https://github.com/ashwinsingh2007" target="_blank">
+    <img src="https://img.shields.io/badge/Web_Data_SDK-6366f1?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
 </p>
-<p align="center">NLP-based contract analysis system at Radius Agent - 150% DAU increase, 40% faster reviews</p>
+<p align="center">AI-powered web scraping & automation platform</p>
+<p align="center">
+<img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white"/>
+<img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white"/>
+<img src="https://img.shields.io/badge/Puppeteer-40B5A4?style=flat-square&logo=puppeteer&logoColor=white"/>
+</p>
 </td>
 <td width="50%">
-<h3 align="center">Airtribe.live</h3>
+<h3 align="center"><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Money%20Bag.png" width="20"/> Sanchay</h3>
 <p align="center">
-  <a href="https://airtribe.live" target="_blank">
-    <img src="https://img.shields.io/badge/Cohort_Learning_Platform-10b981?style=for-the-badge"/>
+  <a href="https://github.com/ashwinsingh2007" target="_blank">
+    <img src="https://img.shields.io/badge/AI_Finance_CoPilot-22d3ee?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
 </p>
-<p align="center">Full-stack MVP for cohort-based learning with session management and payments - 1K+ visitors in month 1</p>
+<p align="center">Open-source AI-powered finance assistant</p>
+<p align="center">
+<img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black"/>
+<img src="https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white"/>
+<img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white"/>
+</p>
 </td>
 </tr>
 </table>
@@ -175,6 +195,6 @@ const ashwani = {
 </p>
 
 <p align="center">
-  <b>Let's build something amazing together!</b><br/>
-  <a href="mailto:kmr.ashwin2019@gmail.com">kmr.ashwin2019@gmail.com</a> | <a href="https://www.linkedin.com/in/ashwani-kumar-97465186/">LinkedIn</a> | <a href="https://medium.com/@ashwinsingh632">Blog</a>
+  <b>Let's build something amazing together!</b><br/><br/>
+  <a href="https://www.ashwani-kumar.com/">Portfolio</a> | <a href="mailto:kmr.ashwin2019@gmail.com">Email</a> | <a href="https://www.linkedin.com/in/ashwani-kumar-97465186/">LinkedIn</a> | <a href="https://medium.com/@ashwinsingh632">Blog</a>
 </p>
