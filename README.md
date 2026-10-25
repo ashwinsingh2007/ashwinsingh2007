@@ -82,9 +82,9 @@ Recent writing:
 <td width="50%" valign="top">
 <h3 align="center"><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Robot.png" width="20"/> J.A.R.V.I.S</h3>
 <p align="center">
-  <a href="https://github.com/ashwinsingh2007/J.A.R.V.I.S"><img src="https://img.shields.io/badge/Voice_Assistant_for_Mac-39c3ff?style=for-the-badge&logo=github&logoColor=white"/></a>
+  <a href="https://github.com/ashwinsingh2007/J.A.R.V.I.S"><img src="https://img.shields.io/badge/Personal_AI_Agent_for_Mac-39c3ff?style=for-the-badge&logo=github&logoColor=white"/></a>
 </p>
-<p align="center">Voice assistant for macOS with a wake word, local speech and memory, powered by Claude Code or Ollama. <a href="https://ashwinsingh2007.github.io/J.A.R.V.I.S/">Website</a></p>
+<p align="center">Personal AI agent for your Mac, like Hermes Agent and OpenClaw. It works through your browser and apps, runs long jobs in the background, remembers you, and takes commands by voice or Telegram. Runs on Claude Code or local Ollama. <a href="https://ashwinsingh2007.github.io/J.A.R.V.I.S/">Website</a></p>
 <p align="center">
 <img src="https://img.shields.io/badge/Electron-47848F?style=flat-square&logo=electron&logoColor=white"/>
 <img src="https://img.shields.io/badge/Swift-F05138?style=flat-square&logo=swift&logoColor=white"/>
