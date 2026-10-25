@@ -23,6 +23,7 @@ const ashwani = {
     portfolio: "https://www.ashwani-kumar.com",
 
     currentFocus: "Building AI-powered products that scale",
+    building: ["Sanchay", "J.A.R.V.I.S"],
 
     achievements: {
         melAI: "150% DAU increase with NLP contract intelligence",
@@ -49,6 +50,7 @@ const ashwani = {
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/>
 <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
 <img src="https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white"/>
+<img src="https://img.shields.io/badge/Swift-F05138?style=flat-square&logo=swift&logoColor=white"/>
 </p>
 
 ### Frontend
@@ -57,6 +59,7 @@ const ashwani = {
 <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white"/>
 <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=flat-square&logo=vue.js&logoColor=white"/>
 <img src="https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white"/>
+<img src="https://img.shields.io/badge/Electron-47848F?style=flat-square&logo=electron&logoColor=white"/>
 </p>
 
 </td>
@@ -75,6 +78,7 @@ const ashwani = {
 <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white"/>
 <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white"/>
 <img src="https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white"/>
+<img src="https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white"/>
 </p>
 
 </td>
@@ -92,6 +96,8 @@ const ashwani = {
 <p>
 <img src="https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white"/>
 <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white"/>
+<img src="https://img.shields.io/badge/Claude-D97757?style=flat-square&logo=anthropic&logoColor=white"/>
+<img src="https://img.shields.io/badge/Ollama-000000?style=flat-square&logo=ollama&logoColor=white"/>
 </p>
 
 </td>
@@ -100,12 +106,50 @@ const ashwani = {
 
 <br/>
 
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Rocket.png" width="30"/> Featured Projects
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Rocket.png" width="30"/> Open Source
 
 <table>
 <tr>
 <td width="50%">
-<h3 align="center"><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Robot.png" width="20"/> MEL AI</h3>
+<h3 align="center"><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Money%20Bag.png" width="20"/> Sanchay</h3>
+<p align="center">
+  <a href="https://github.com/ashwinsingh2007/sanchay" target="_blank">
+    <img src="https://img.shields.io/badge/AI_CFO_for_Mac-22d3ee?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+</p>
+<p align="center">Open-source personal finance app that reads your bank statements on your Mac and plans savings with local AI. <a href="https://sanchayhq.github.io">Website</a></p>
+<p align="center">
+<img src="https://img.shields.io/badge/Electron-47848F?style=flat-square&logo=electron&logoColor=white"/>
+<img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black"/>
+<img src="https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white"/>
+<img src="https://img.shields.io/badge/Ollama-000000?style=flat-square&logo=ollama&logoColor=white"/>
+</p>
+</td>
+<td width="50%">
+<h3 align="center"><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Robot.png" width="20"/> J.A.R.V.I.S</h3>
+<p align="center">
+  <a href="https://github.com/ashwinsingh2007/J.A.R.V.I.S" target="_blank">
+    <img src="https://img.shields.io/badge/Voice_Assistant_for_Mac-39c3ff?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+</p>
+<p align="center">Open-source voice assistant for macOS with a wake word, local speech and memory, powered by Claude Code or Ollama. <a href="https://ashwinsingh2007.github.io/J.A.R.V.I.S/">Website</a></p>
+<p align="center">
+<img src="https://img.shields.io/badge/Electron-47848F?style=flat-square&logo=electron&logoColor=white"/>
+<img src="https://img.shields.io/badge/Swift-F05138?style=flat-square&logo=swift&logoColor=white"/>
+<img src="https://img.shields.io/badge/Claude-D97757?style=flat-square&logo=anthropic&logoColor=white"/>
+</p>
+</td>
+</tr>
+</table>
+
+<br/>
+
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Office%20Building.png" width="30"/> Featured Work
+
+<table>
+<tr>
+<td width="50%">
+<h3 align="center"><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Page%20Facing%20Up.png" width="20"/> MEL AI</h3>
 <p align="center">
   <img src="https://img.shields.io/badge/Contract_Intelligence-a855f7?style=for-the-badge&logo=openai&logoColor=white"/>
 </p>
@@ -132,8 +176,8 @@ const ashwani = {
 </td>
 </tr>
 <tr>
-<td width="50%">
-<h3 align="center"><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Spider%20Web.png" width="20"/> Scrapebit</h3>
+<td colspan="2">
+<h3 align="center"><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Spider%20Web.png" width="20"/> Scrapebit</h3>
 <p align="center">
   <a href="https://github.com/ashwinsingh2007" target="_blank">
     <img src="https://img.shields.io/badge/Web_Data_SDK-6366f1?style=for-the-badge&logo=github&logoColor=white"/>
@@ -144,20 +188,6 @@ const ashwani = {
 <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white"/>
 <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white"/>
 <img src="https://img.shields.io/badge/Puppeteer-40B5A4?style=flat-square&logo=puppeteer&logoColor=white"/>
-</p>
-</td>
-<td width="50%">
-<h3 align="center"><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Money%20Bag.png" width="20"/> Sanchay</h3>
-<p align="center">
-  <a href="https://github.com/ashwinsingh2007" target="_blank">
-    <img src="https://img.shields.io/badge/AI_Finance_CoPilot-22d3ee?style=for-the-badge&logo=github&logoColor=white"/>
-  </a>
-</p>
-<p align="center">Open-source AI-powered finance assistant</p>
-<p align="center">
-<img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black"/>
-<img src="https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white"/>
-<img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white"/>
 </p>
 </td>
 </tr>
@@ -175,8 +205,6 @@ const ashwani = {
 <p align="center">
   <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ashwinsingh2007&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6366f1&text_color=ffffff"/>
 </p>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=ashwinsingh2007&bg_color=0D1117&color=6366f1&line=22d3ee&point=ffffff&area=true&hide_border=true"/>
 
 <br/>
 
