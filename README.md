@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&pause=1200&color=22D3EE&center=true&vCenter=true&width=720&lines=Platform+Engineer+%40+browserless;Writing+Beyond+CRUD%3A+free+system+design+for+devs;Building+Sanchay%3A+an+AI+CFO+for+your+Mac;Building+J.A.R.V.I.S%3A+a+personal+AI+agent" alt="Platform Engineer at browserless, writer of Beyond CRUD, builder of Sanchay and J.A.R.V.I.S"/>
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&pause=1200&color=22D3EE&center=true&vCenter=true&width=720&lines=Platform+Engineer+%40+browserless;Writing+Beyond+CRUD%3A+free+system+design+for+devs;Building+Sanchay%3A+an+AI+money+manager+for+your+Mac;Building+J.A.R.V.I.S%3A+a+personal+AI+agent" alt="Platform Engineer at browserless, writer of Beyond CRUD, builder of Sanchay and J.A.R.V.I.S"/>
 </p>
 
 <p align="center">
@@ -33,7 +33,7 @@ Previously  : Lead Software Engineer @ Radius Agent
 Uptime      : 10 years, mostly backend
 Location    : Bangalore, India
 Community   : beyondcrud.dev, free system design writing
-Building    : Sanchay (AI CFO for Mac), J.A.R.V.I.S (personal AI agent)
+Building    : Sanchay (AI money manager for Mac), J.A.R.V.I.S (personal AI agent)
 Shell       : TypeScript · Node.js · PostgreSQL · Redis · Docker · AWS
 Interests   : System design · AI in production · Developer tools
 ```
@@ -77,7 +77,7 @@ Recent writing:
 <td width="50%" valign="top">
 <h3 align="center"><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Money%20Bag.png" width="20"/> Sanchay</h3>
 <p align="center">
-  <a href="https://github.com/ashwinsingh2007/sanchay"><img src="https://img.shields.io/badge/AI_CFO_for_Mac-22d3ee?style=for-the-badge&logo=github&logoColor=white"/></a>
+  <a href="https://github.com/ashwinsingh2007/sanchay"><img src="https://img.shields.io/badge/AI_Money_Manager_for_Mac-22d3ee?style=for-the-badge&logo=github&logoColor=white"/></a>
 </p>
 <p align="center">Personal finance app that reads your bank statements on your Mac and plans savings with local AI. <a href="https://sanchayhq.github.io">Website</a></p>
 <p align="center">
