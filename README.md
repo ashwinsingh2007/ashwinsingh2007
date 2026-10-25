@@ -1,103 +1,60 @@
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Ashwani%20Kumar&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Senior%20Product%20Engineer%20%7C%20AI%20Builder%20%7C%20Open%20Source&descAlignY=52&descSize=18"/>
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Ashwani%20Kumar&fontSize=42&animation=twinkling&fontAlignY=32&desc=Senior%20Product%20Engineer%20%7C%20AI%20Builder%20%7C%20Open%20Source&descAlignY=52&descSize=18"/>
+  <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=190&section=header&text=Ashwani%20Kumar&fontSize=44&fontColor=fff&animation=twinkling&fontAlignY=34&desc=Platform%20Engineer%20%C2%B7%20System%20Design%20%C2%B7%20Open%20Source&descAlignY=54&descSize=18"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=190&section=header&text=Ashwani%20Kumar&fontSize=44&fontColor=fff&animation=twinkling&fontAlignY=34&desc=Platform%20Engineer%20%C2%B7%20System%20Design%20%C2%B7%20Open%20Source&descAlignY=54&descSize=18"/>
 </picture>
 
 <p align="center">
+  <a href="https://beyondcrud.dev"><img src="https://img.shields.io/badge/Beyond_CRUD-blog-22d3ee?style=for-the-badge&logo=rss&logoColor=white"/></a>
   <a href="https://www.ashwani-kumar.com/"><img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white"/></a>
   <a href="https://www.linkedin.com/in/ashwani-kumar-97465186/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
   <a href="mailto:kmr.ashwin2019@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-  <a href="https://medium.com/@ashwinsingh632"><img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white"/></a>
-  <img src="https://komarev.com/ghpvc/?username=ashwinsingh2007&style=for-the-badge&color=blueviolet"/>
+  <img src="https://komarev.com/ghpvc/?username=ashwinsingh2007&style=for-the-badge&color=blueviolet&label=Profile+views"/>
 </p>
 
 <br/>
 
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People%20with%20professions/Man%20Technologist%20Light%20Skin%20Tone.png" width="30"/> About Me
 
+I've been building software for about ten years, mostly on the backend: service design, APIs, queues, databases and the infrastructure under them. I build the frontend too when the product needs it, so I usually own a feature from the schema to the screen.
+
+I work at [browserless](https://www.browserless.io) as a Platform Engineer, on the services that run long-lived browser sessions at scale. Outside work I give back to the developer community through [Beyond CRUD](https://beyondcrud.dev), a free system design site, and I build open-source AI apps for the Mac.
+
 ```typescript
 const ashwani = {
-    role: "Senior Product Engineer @ Radius Agent",
-    location: "Bangalore, India",
-    experience: "8+ years",
-    portfolio: "https://www.ashwani-kumar.com",
-
-    currentFocus: "Building AI-powered products that scale",
-    building: ["Sanchay", "J.A.R.V.I.S"],
-
-    achievements: {
-        melAI: "150% DAU increase with NLP contract intelligence",
-        productivity: "70% team efficiency boost via AI workshops",
-        performance: "Reduced matching time from 2hrs → 15sec"
-    },
-
-    passion: ["AI/ML", "Developer Tools", "Open Source"],
-    motto: "Ship fast, learn faster"
+  role: "Platform Engineer @ browserless",
+  previously: "Lead Software Engineer @ Radius Agent",
+  location: "Bangalore, India",
+  experience: "10 years, mostly backend",
+  community: "https://beyondcrud.dev",
+  building: ["Sanchay", "J.A.R.V.I.S"],
+  interests: ["System design", "AI in production", "Developer tools"],
 };
 ```
 
 <br/>
 
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Hammer%20and%20Wrench.png" width="30"/> Tech Stack
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Memo.png" width="30"/> Beyond CRUD
 
 <table>
 <tr>
-<td valign="top" width="33%">
+<td>
 
-### Languages
+<a href="https://beyondcrud.dev"><b>beyondcrud.dev</b></a> is my side project for the developer community: free system design writing, no paywall, no ads. Most tutorials stop at CRUD, so it covers the parts that break after that: retries, dead letters, migrations, caching, and APIs that AI agents call a thousand times a minute.
+
+Recent writing:
+
+- [How dead letter exchanges prevent distributed systems from silently failing](https://beyondcrud.dev/system-design/how-dead-letter-exchanges-prevent/)
+- [One word keeps your table writable while an index builds](https://beyondcrud.dev/system-design/postgres-create-index-concurrently/)
+- [An AI agent just got a 503 from your API](https://beyondcrud.dev/system-design/ai-agents-and-your-api/)
+- [REA lets AI agents reverse engineer apps. Here's both sides of it](https://beyondcrud.dev/open-source/rea-reverse-engineer-anything/)
+
 <p>
-<img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white"/>
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/>
-<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
-<img src="https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white"/>
-<img src="https://img.shields.io/badge/Swift-F05138?style=flat-square&logo=swift&logoColor=white"/>
-</p>
-
-### Frontend
-<p>
-<img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black"/>
-<img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white"/>
-<img src="https://img.shields.io/badge/Vue.js-4FC08D?style=flat-square&logo=vue.js&logoColor=white"/>
-<img src="https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white"/>
-<img src="https://img.shields.io/badge/Electron-47848F?style=flat-square&logo=electron&logoColor=white"/>
-</p>
-
-</td>
-<td valign="top" width="33%">
-
-### Backend
-<p>
-<img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white"/>
-<img src="https://img.shields.io/badge/NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=white"/>
-<img src="https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white"/>
-<img src="https://img.shields.io/badge/GraphQL-E10098?style=flat-square&logo=graphql&logoColor=white"/>
-</p>
-
-### Databases
-<p>
-<img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white"/>
-<img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white"/>
-<img src="https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white"/>
-<img src="https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white"/>
-</p>
-
-</td>
-<td valign="top" width="33%">
-
-### Infrastructure
-<p>
-<img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white"/>
-<img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white"/>
-<img src="https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white"/>
-<img src="https://img.shields.io/badge/Terraform-7B42BC?style=flat-square&logo=terraform&logoColor=white"/>
-</p>
-
-### AI/ML
-<p>
-<img src="https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white"/>
-<img src="https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white"/>
-<img src="https://img.shields.io/badge/Claude-D97757?style=flat-square&logo=anthropic&logoColor=white"/>
-<img src="https://img.shields.io/badge/Ollama-000000?style=flat-square&logo=ollama&logoColor=white"/>
+  <a href="https://beyondcrud.dev/system-design/"><img src="https://img.shields.io/badge/System_design-1e293b?style=flat-square"/></a>
+  <a href="https://beyondcrud.dev/teardowns/"><img src="https://img.shields.io/badge/Teardowns-1e293b?style=flat-square"/></a>
+  <a href="https://beyondcrud.dev/ai-for-that/"><img src="https://img.shields.io/badge/AI_for_that-1e293b?style=flat-square"/></a>
+  <a href="https://beyondcrud.dev/open-source/"><img src="https://img.shields.io/badge/Open_source-1e293b?style=flat-square"/></a>
+  <a href="https://beyondcrud.dev/newsletter/"><img src="https://img.shields.io/badge/Newsletter-22d3ee?style=flat-square"/></a>
+  <a href="https://beyondcrud.dev/rss.xml"><img src="https://img.shields.io/badge/RSS-FFA500?style=flat-square&logo=rss&logoColor=white"/></a>
 </p>
 
 </td>
@@ -110,14 +67,12 @@ const ashwani = {
 
 <table>
 <tr>
-<td width="50%">
+<td width="50%" valign="top">
 <h3 align="center"><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Money%20Bag.png" width="20"/> Sanchay</h3>
 <p align="center">
-  <a href="https://github.com/ashwinsingh2007/sanchay" target="_blank">
-    <img src="https://img.shields.io/badge/AI_CFO_for_Mac-22d3ee?style=for-the-badge&logo=github&logoColor=white"/>
-  </a>
+  <a href="https://github.com/ashwinsingh2007/sanchay"><img src="https://img.shields.io/badge/AI_CFO_for_Mac-22d3ee?style=for-the-badge&logo=github&logoColor=white"/></a>
 </p>
-<p align="center">Open-source personal finance app that reads your bank statements on your Mac and plans savings with local AI. <a href="https://sanchayhq.github.io">Website</a></p>
+<p align="center">Personal finance app that reads your bank statements on your Mac and plans savings with local AI. <a href="https://sanchayhq.github.io">Website</a></p>
 <p align="center">
 <img src="https://img.shields.io/badge/Electron-47848F?style=flat-square&logo=electron&logoColor=white"/>
 <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black"/>
@@ -125,14 +80,12 @@ const ashwani = {
 <img src="https://img.shields.io/badge/Ollama-000000?style=flat-square&logo=ollama&logoColor=white"/>
 </p>
 </td>
-<td width="50%">
+<td width="50%" valign="top">
 <h3 align="center"><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Robot.png" width="20"/> J.A.R.V.I.S</h3>
 <p align="center">
-  <a href="https://github.com/ashwinsingh2007/J.A.R.V.I.S" target="_blank">
-    <img src="https://img.shields.io/badge/Voice_Assistant_for_Mac-39c3ff?style=for-the-badge&logo=github&logoColor=white"/>
-  </a>
+  <a href="https://github.com/ashwinsingh2007/J.A.R.V.I.S"><img src="https://img.shields.io/badge/Voice_Assistant_for_Mac-39c3ff?style=for-the-badge&logo=github&logoColor=white"/></a>
 </p>
-<p align="center">Open-source voice assistant for macOS with a wake word, local speech and memory, powered by Claude Code or Ollama. <a href="https://ashwinsingh2007.github.io/J.A.R.V.I.S/">Website</a></p>
+<p align="center">Voice assistant for macOS with a wake word, local speech and memory, powered by Claude Code or Ollama. <a href="https://ashwinsingh2007.github.io/J.A.R.V.I.S/">Website</a></p>
 <p align="center">
 <img src="https://img.shields.io/badge/Electron-47848F?style=flat-square&logo=electron&logoColor=white"/>
 <img src="https://img.shields.io/badge/Swift-F05138?style=flat-square&logo=swift&logoColor=white"/>
@@ -144,35 +97,74 @@ const ashwani = {
 
 <br/>
 
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Office%20Building.png" width="30"/> Featured Work
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Briefcase.png" width="30"/> Experience
+
+| When | Role | What I did |
+|------|------|------------|
+| 2025 to now | Platform Engineer, **browserless** | TypeScript and Node.js services that manage long-lived browser sessions over WebSockets and the Chrome DevTools Protocol, plus the containerized browser infrastructure behind them on AWS, GCP and DigitalOcean. |
+| 2021 to 2026 | Lead Software Engineer, **Radius Agent** | Led the full-stack team behind Listings, Contracts, Leaderboard and the CRM. Built Mel, an AI assistant that reads contracts and surfaces leads; daily active users grew 150% after launch. Ran AI workshops that lifted team productivity by about 70%. |
+| 2023 to 2026 | Co-founder, **Cosmosone** | An iOS app for anonymous messages between friends. Built the backend and APIs and shipped it to the App Store. |
+| 2019 to 2021 | Senior Software Engineer, **RentoMojo** | Took automated KYC checks from 27% to 88%. Moved data services and ETL from AWS to Azure at about 20% lower cost. A chatbot and IVR cut inbound calls and emails by more than 30%. |
+| Earlier | Software Engineer, **PeopleGrove** | Rewrote bulk mentor matching so a 2-hour run finished in 15 seconds. |
+| Earlier | Software Engineer, **Persistent Systems** | Full-stack features on client projects. |
+
+<br/>
+
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Hammer%20and%20Wrench.png" width="30"/> Tech Stack
 
 <table>
 <tr>
-<td width="50%">
-<h3 align="center"><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Page%20Facing%20Up.png" width="20"/> MEL AI</h3>
-<p align="center">
-  <img src="https://img.shields.io/badge/Contract_Intelligence-a855f7?style=for-the-badge&logo=openai&logoColor=white"/>
-</p>
-<p align="center">NLP-based contract analysis system - <b>150% DAU increase</b>, <b>40% faster reviews</b></p>
-<p align="center">
+<td><b>Backend</b></td>
+<td>
 <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white"/>
-<img src="https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white"/>
-<img src="https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white"/>
-</p>
+<img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white"/>
+<img src="https://img.shields.io/badge/NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=white"/>
+<img src="https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white"/>
+<img src="https://img.shields.io/badge/GraphQL-E10098?style=flat-square&logo=graphql&logoColor=white"/>
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white"/>
 </td>
-<td width="50%">
-<h3 align="center"><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Graduation%20Cap.png" width="20"/> Airtribe.live</h3>
-<p align="center">
-  <a href="https://airtribe.live" target="_blank">
-    <img src="https://img.shields.io/badge/Cohort_Learning_Platform-10b981?style=for-the-badge&logo=vercel&logoColor=white"/>
-  </a>
-</p>
-<p align="center">Full-stack MVP for cohort-based learning - <b>1K+ visitors</b> in month 1</p>
-<p align="center">
-<img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black"/>
-<img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white"/>
+</tr>
+<tr>
+<td><b>Data</b></td>
+<td>
+<img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white"/>
 <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white"/>
-</p>
+<img src="https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white"/>
+<img src="https://img.shields.io/badge/RabbitMQ-FF6600?style=flat-square&logo=rabbitmq&logoColor=white"/>
+<img src="https://img.shields.io/badge/Elasticsearch-005571?style=flat-square&logo=elasticsearch&logoColor=white"/>
+</td>
+</tr>
+<tr>
+<td><b>Platform</b></td>
+<td>
+<img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white"/>
+<img src="https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white"/>
+<img src="https://img.shields.io/badge/Terraform-7B42BC?style=flat-square&logo=terraform&logoColor=white"/>
+<img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white"/>
+<img src="https://img.shields.io/badge/GCP-4285F4?style=flat-square&logo=googlecloud&logoColor=white"/>
+<img src="https://img.shields.io/badge/Azure-0078D4?style=flat-square"/>
+</td>
+</tr>
+<tr>
+<td><b>Frontend</b></td>
+<td>
+<img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black"/>
+<img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white"/>
+<img src="https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white"/>
+<img src="https://img.shields.io/badge/Electron-47848F?style=flat-square&logo=electron&logoColor=white"/>
+<img src="https://img.shields.io/badge/Swift-F05138?style=flat-square&logo=swift&logoColor=white"/>
+</td>
+</tr>
+<tr>
+<td><b>AI</b></td>
+<td>
+<img src="https://img.shields.io/badge/Claude-D97757?style=flat-square&logo=anthropic&logoColor=white"/>
+<img src="https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white"/>
+<img src="https://img.shields.io/badge/Ollama-000000?style=flat-square&logo=ollama&logoColor=white"/>
+<img src="https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white"/>
+<img src="https://img.shields.io/badge/RAG_pipelines-6366f1?style=flat-square"/>
+<img src="https://img.shields.io/badge/Agents-6366f1?style=flat-square"/>
 </td>
 </tr>
 </table>
@@ -192,21 +184,10 @@ const ashwani = {
 
 <br/>
 
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Briefcase.png" width="30"/> Experience Highlights
-
-| Company | Role | Impact |
-|---------|------|--------|
-| **Radius Agent** | Senior Product Engineer | Built MEL AI → 150% DAU growth, 40% faster contract reviews |
-| **Rentomojo** | Senior Software Engineer | KYC automation 27% → 88%, 20% ETL cost reduction |
-| **Peoplegrove** | Full Stack Developer | Matching time 2hrs → 15sec optimization |
-
-<br/>
-
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer"/>
 </p>
 
 <p align="center">
-  <b>Let's build something amazing together!</b><br/><br/>
-  <a href="https://www.ashwani-kumar.com/">Portfolio</a> | <a href="mailto:kmr.ashwin2019@gmail.com">Email</a> | <a href="https://www.linkedin.com/in/ashwani-kumar-97465186/">LinkedIn</a> | <a href="https://medium.com/@ashwinsingh632">Blog</a>
+  Read <a href="https://beyondcrud.dev">Beyond CRUD</a>, or say hi on <a href="https://www.linkedin.com/in/ashwani-kumar-97465186/">LinkedIn</a> or by <a href="mailto:kmr.ashwin2019@gmail.com">email</a>.
 </p>
