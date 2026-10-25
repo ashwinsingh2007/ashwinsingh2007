@@ -175,22 +175,6 @@ const ashwani = {
 </p>
 </td>
 </tr>
-<tr>
-<td colspan="2">
-<h3 align="center"><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Spider%20Web.png" width="20"/> Scrapebit</h3>
-<p align="center">
-  <a href="https://github.com/ashwinsingh2007" target="_blank">
-    <img src="https://img.shields.io/badge/Web_Data_SDK-6366f1?style=for-the-badge&logo=github&logoColor=white"/>
-  </a>
-</p>
-<p align="center">AI-powered web scraping & automation platform</p>
-<p align="center">
-<img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white"/>
-<img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white"/>
-<img src="https://img.shields.io/badge/Puppeteer-40B5A4?style=flat-square&logo=puppeteer&logoColor=white"/>
-</p>
-</td>
-</tr>
 </table>
 
 <br/>
