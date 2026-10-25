@@ -1,7 +1,6 @@
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=190&section=header&text=Ashwani%20Kumar&fontSize=44&fontColor=fff&animation=twinkling&fontAlignY=34&desc=Platform%20Engineer%20%C2%B7%20System%20Design%20%C2%B7%20Open%20Source&descAlignY=54&descSize=18"/>
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=190&section=header&text=Ashwani%20Kumar&fontSize=44&fontColor=fff&animation=twinkling&fontAlignY=34&desc=Platform%20Engineer%20%C2%B7%20System%20Design%20%C2%B7%20Open%20Source&descAlignY=54&descSize=18"/>
-</picture>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6%2C11%2C20&height=190&section=header&text=Ashwani%20Kumar&fontSize=44&fontColor=fff&animation=twinkling&fontAlignY=34&desc=Platform%20Engineer%20%C2%B7%20System%20Design%20%C2%B7%20Open%20Source&descAlignY=54&descSize=18"/>
+</p>
 
 <p align="center">
   <a href="https://beyondcrud.dev"><img src="https://img.shields.io/badge/Beyond_CRUD-blog-22d3ee?style=for-the-badge&logo=rss&logoColor=white"/></a>
