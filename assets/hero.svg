@@ -1,0 +1,79 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 320" width="1200" height="320" role="img" aria-label="Ashwani Kumar, Platform Engineer">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#0b1020"/>
+      <stop offset="1" stop-color="#111a33"/>
+    </linearGradient>
+    <radialGradient id="b1" cx="0.5" cy="0.5" r="0.5">
+      <stop offset="0" stop-color="#6366f1" stop-opacity=".75"/>
+      <stop offset="1" stop-color="#6366f1" stop-opacity="0"/>
+    </radialGradient>
+    <radialGradient id="b2" cx="0.5" cy="0.5" r="0.5">
+      <stop offset="0" stop-color="#22d3ee" stop-opacity=".6"/>
+      <stop offset="1" stop-color="#22d3ee" stop-opacity="0"/>
+    </radialGradient>
+    <radialGradient id="b3" cx="0.5" cy="0.5" r="0.5">
+      <stop offset="0" stop-color="#f4aa1c" stop-opacity=".45"/>
+      <stop offset="1" stop-color="#f4aa1c" stop-opacity="0"/>
+    </radialGradient>
+    <linearGradient id="glass" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#ffffff" stop-opacity=".14"/>
+      <stop offset="1" stop-color="#ffffff" stop-opacity=".03"/>
+    </linearGradient>
+    <linearGradient id="name" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#ffffff"/>
+      <stop offset="1" stop-color="#c7d2fe"/>
+    </linearGradient>
+    <clipPath id="card"><rect x="0" y="0" width="1200" height="320" rx="28"/></clipPath>
+    <pattern id="grid" width="32" height="32" patternUnits="userSpaceOnUse">
+      <path d="M32 0H0V32" fill="none" stroke="#ffffff" stroke-opacity=".05" stroke-width="1"/>
+    </pattern>
+  </defs>
+  <style>
+    .blob { transform-box: fill-box; transform-origin: center; }
+    .a { animation: driftA 14s ease-in-out infinite alternate; }
+    .b { animation: driftB 18s ease-in-out infinite alternate; }
+    .c { animation: driftC 16s ease-in-out infinite alternate; }
+    @keyframes driftA { from { transform: translate(0,0) scale(1); } to { transform: translate(140px,40px) scale(1.15); } }
+    @keyframes driftB { from { transform: translate(0,0) scale(1.1); } to { transform: translate(-160px,-30px) scale(.95); } }
+    @keyframes driftC { from { transform: translate(0,0); } to { transform: translate(-90px,50px); } }
+    .dot { animation: blink 1.2s steps(1) infinite; }
+    @keyframes blink { 50% { opacity: 0; } }
+    .rise { animation: rise .9s cubic-bezier(.2,.8,.2,1) both; }
+    .d1 { animation-delay: .1s; } .d2 { animation-delay: .25s; } .d3 { animation-delay: .4s; }
+    @keyframes rise { from { opacity: 0; transform: translateY(10px); } to { opacity: 1; transform: none; } }
+    text { font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Helvetica, Arial, sans-serif; }
+    .mono { font-family: "SF Mono", ui-monospace, Menlo, Consolas, monospace; }
+    @media (prefers-reduced-motion: reduce) { .a, .b, .c, .dot, .rise { animation: none; } }
+  </style>
+  <g clip-path="url(#card)">
+    <rect width="1200" height="320" fill="url(#bg)"/>
+    <rect width="1200" height="320" fill="url(#grid)"/>
+    <circle class="blob a" cx="180" cy="80" r="260" fill="url(#b1)"/>
+    <circle class="blob b" cx="1020" cy="260" r="280" fill="url(#b2)"/>
+    <circle class="blob c" cx="760" cy="40" r="200" fill="url(#b3)"/>
+    <rect x="40" y="40" width="1120" height="240" rx="22" fill="url(#glass)" stroke="#ffffff" stroke-opacity=".16"/>
+  </g>
+  <g class="rise">
+    <circle cx="80" cy="76" r="6" fill="#ff5f57"/>
+    <circle cx="100" cy="76" r="6" fill="#febc2e"/>
+    <circle cx="120" cy="76" r="6" fill="#28c840"/>
+    <text x="148" y="81" class="mono" font-size="15" fill="#94a3b8">~/ashwani · zsh</text>
+  </g>
+  <g class="rise d1">
+    <text x="80" y="160" font-size="64" font-weight="800" letter-spacing="-1.5" fill="url(#name)">Ashwani Kumar</text>
+  </g>
+  <g class="rise d2">
+    <text x="82" y="204" font-size="24" font-weight="600" fill="#e2e8f0">Platform Engineer at <tspan fill="#22d3ee">browserless</tspan></text>
+  </g>
+  <g class="rise d3">
+    <text x="82" y="246" class="mono" font-size="17" fill="#a5b4fc">$ <tspan fill="#cbd5e1">writes </tspan><tspan fill="#fbbf24">beyondcrud.dev</tspan><tspan fill="#cbd5e1"> · builds </tspan><tspan fill="#5eead4">Sanchay</tspan><tspan fill="#cbd5e1"> + </tspan><tspan fill="#a5b4fc">J.A.R.V.I.S</tspan></text>
+    <rect class="dot" x="648" y="232" width="10" height="18" fill="#22d3ee"/>
+  </g>
+  <g class="rise d3"><g transform="translate(900 118)">
+    <rect width="220" height="112" rx="16" fill="#0b1020" fill-opacity=".55" stroke="#ffffff" stroke-opacity=".14"/>
+    <text x="20" y="36" class="mono" font-size="13" fill="#94a3b8">uptime</text>
+    <text x="20" y="62" font-size="24" font-weight="700" fill="#ffffff">10 years</text>
+    <text x="20" y="90" class="mono" font-size="13" fill="#5eead4">backend · platform · AI</text>
+  </g></g>
+</svg>
